@@ -1,4 +1,4 @@
-![Final](https://github.com/user-attachments/assets/74c67b0d-d171-4efe-904b-aa28ff9af8a7)### Spec
+### Spec
 
 Spec is a server-based application used for the remote inspection of various mechanical parts, allowing for dimensional and geometrical analysis without the use of AI or ML.
 
