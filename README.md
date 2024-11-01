@@ -12,7 +12,7 @@ Spec is a server-based application used for the remote inspection of various mec
 | ------------ | ------------ |
 |  Bolt |   Canny Edge -> **Finding Best Line** -> **Finding Pitch** |
 |   Washer |   **Finding Best Circle** -> Zoom & Inv -> **Finding Best Circle** | 
-|   Nut |  **Finding Best Circle** -> Moment Centre -> Difference of Rad and Dist between Centre to Contour Point |
+|   Nut |  **Finding Best Circle** -> Moment Centre -> Difference of Radius and Contour Point |
 
 **Contour Shape Analysis**
 
